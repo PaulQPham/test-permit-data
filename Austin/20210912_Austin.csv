@@ -1,0 +1,3 @@
+state,county,permno,ptype,pdate,pdescription,jvalue,jsqfeet,jaddr,jcity,jstate,jzip,jsubdiv,jlotno,aname,aaddr,acity,astate,azip,aphone,atype,aurl,afax,aprimarycontact,aemail,bldcode,units,bldgs,ctype,legal,contractor,caddress,ccity,cstate,czip,cphone,curl,cfax,cprimarycontact,cemail
+TX,WILLIAMSON,TEST-0001,"Duplex, Triplex, & Fourplex",9/11/2021,,,6000,"123 Test Drive",LEANDER,TX,78641,,,CONTRACTOR,,,,,,,,,,,"MASONWOOD HOMES",,,,,"MASONWOOD HOMES","4301 WESTBANK DR BLDG A STE 110",AUSTIN,TX,78738,"(512) 306-8300",,,,
+
